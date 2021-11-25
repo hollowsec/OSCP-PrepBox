@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "a077924f6d3517d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0304fa1f0a00fc9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux Box/Jail/05 - Enumeration.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4609d9beb2c82d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e0ca825d653b28f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07ddd04eba82b76d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f43ad25ca6cda50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line:()",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277
+  },
+  "right": {
+    "id": "27b2df82cdc0e409",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85bf0a8cac33faa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62e1e0d565a7cff5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux Box/Jail/05 - Enumeration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0304fa1f0a00fc9c",
+  "lastOpenFiles": [
+    "Linux Box/Jail/05 - Enumeration.md",
+    "Windows Box/Active/15 - Kerberoast Attack.md",
+    "Windows Box/Active/00 - Creds.md",
+    "Windows Box/Active/10 - SMB.md",
+    "Windows Box/Active/05 - Enumeration.md",
+    "Windows Box/Tally/20 - Keepass.md",
+    "Windows Box/Tally/00 - Creds.md",
+    "Windows Box/Tally/40 - PrivEsc.md",
+    "Windows Box/Bart/20 - PrivEsc.md",
+    "Windows Box/Bart/15 - Reverse Shell.md"
+  ]
+}
