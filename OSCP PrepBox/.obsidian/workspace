@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux Box/Jail/05 - Enumeration.md",
+            "file": "Linux Box/Falafel/25 - Getting Root (Bonus).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Box/Jail/05 - Enumeration.md",
+                "file": "Linux Box/Falafel/25 - Getting Root (Bonus).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +78,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "062471cd247efa06",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "0304fa1f0a00fc9c",
   "lastOpenFiles": [
-    "Linux Box/Jail/05 - Enumeration.md",
-    "Windows Box/Active/15 - Kerberoast Attack.md",
-    "Windows Box/Active/00 - Creds.md",
-    "Windows Box/Active/10 - SMB.md",
-    "Windows Box/Active/05 - Enumeration.md",
-    "Windows Box/Tally/20 - Keepass.md",
-    "Windows Box/Tally/00 - Creds.md",
-    "Windows Box/Tally/40 - PrivEsc.md",
-    "Windows Box/Bart/20 - PrivEsc.md",
-    "Windows Box/Bart/15 - Reverse Shell.md"
+    "Linux Box/Falafel/25 - Getting Root (Bonus).md",
+    "Linux Box/Falafel/20 - Post-Exploitation.md",
+    "Linux Box/Falafel/00 - Creds.md",
+    "Linux Box/Falafel/15 - Reverse Shell.md",
+    "Linux Box/Falafel/10 - Apache (80).md",
+    "Linux Box/Node/10 -Apache Hadoop (3000).md",
+    "Linux Box/Node/00 - Creds.md",
+    "Linux Box/Nineveh/00 - Creds.md",
+    "Linux Box/Nibbles/00 - Creds.md",
+    "Linux Box/CronOS/00 - Creds.md"
   ]
 }
