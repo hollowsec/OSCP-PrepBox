@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux Box/Falafel/25 - Getting Root (Bonus).md",
-            "mode": "source"
+            "file": "Linux Box/DevOops/20 - PrivEsc.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Box/Falafel/25 - Getting Root (Bonus).md",
+                "file": "Linux Box/DevOops/20 - PrivEsc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "0304fa1f0a00fc9c",
   "lastOpenFiles": [
-    "Linux Box/Falafel/25 - Getting Root (Bonus).md",
+    "Linux Box/DevOops/20 - PrivEsc.md",
+    "Linux Box/DevOops/17 - SSH.md",
+    "Linux Box/DevOops/Pasted image 20211127102421.png",
+    "Linux Box/DevOops/Pasted image 20211127102843.png",
+    "Linux Box/DevOops/15 - Reverse Shell.md",
     "Linux Box/Falafel/20 - Post-Exploitation.md",
-    "Linux Box/Falafel/00 - Creds.md",
-    "Linux Box/Falafel/15 - Reverse Shell.md",
-    "Linux Box/Falafel/10 - Apache (80).md",
-    "Linux Box/Node/10 -Apache Hadoop (3000).md",
-    "Linux Box/Node/00 - Creds.md",
-    "Linux Box/Nineveh/00 - Creds.md",
-    "Linux Box/Nibbles/00 - Creds.md",
-    "Linux Box/CronOS/00 - Creds.md"
+    "Linux Box/DevOops/Pasted image 20211127093759.png",
+    "Linux Box/DevOops/10 - Gunicon (5000).md",
+    "Linux Box/DevOops/05 - Enumeration.md",
+    "Linux Box/Falafel/25 - Getting Root (Bonus).md"
   ]
 }
