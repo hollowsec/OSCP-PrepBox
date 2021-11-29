@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0304fa1f0a00fc9c",
+        "id": "e2380b6e1b10fabe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux Box/Hawk/25 - PrivEsc.md",
+            "file": "Windows Box/Conceal/20 - PrivEsc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Box/Hawk/25 - PrivEsc.md",
+                "file": "Windows Box/Conceal/20 - PrivEsc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +94,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0304fa1f0a00fc9c",
+  "active": "e2380b6e1b10fabe",
   "lastOpenFiles": [
-    "Linux Box/Hawk/25 - PrivEsc.md",
-    "Linux Box/Hawk/00 - Creds.md",
-    "Linux Box/Hawk/20 - Reverse Shell.md",
-    "Linux Box/Hawk/15 - Drupal (80).md",
-    "Linux Box/Hawk/Pasted image 20211128051420.png",
-    "Linux Box/Hawk/10 - FTP.md",
-    "Linux Box/Hawk/05 - Enumeration.md",
-    "Linux Box/DevOops/20 - PrivEsc.md",
-    "Linux Box/DevOops/17 - SSH.md",
-    "Linux Box/DevOops/Pasted image 20211127102421.png"
+    "Windows Box/Conceal/20 - PrivEsc.md",
+    "Windows Box/Conceal/Pasted image 20211129093030.png",
+    "Windows Box/Conceal/Pasted image 20211129091959.png",
+    "Windows Box/Conceal/Pasted image 20211129090453.png",
+    "Windows Box/Conceal/Pasted image 20211128103121.png",
+    "Windows Box/Conceal/Pasted image 20211129025819.png",
+    "Windows Box/Conceal/Pasted image 20211129084122.png",
+    "Windows Box/Conceal/Pasted image 20211129084152.png",
+    "Windows Box/Conceal/Pasted image 20211129085422.png",
+    "Windows Box/Conceal/Pasted image 20211129085542.png"
   ]
 }
