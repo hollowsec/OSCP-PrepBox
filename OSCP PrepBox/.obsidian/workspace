@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Windows Box/Conceal/20 - PrivEsc.md",
+            "file": "Linux Box/Irked/20 - PrivEsc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Box/Conceal/20 - PrivEsc.md",
+                "file": "Linux Box/Irked/20 - PrivEsc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "e2380b6e1b10fabe",
   "lastOpenFiles": [
+    "Linux Box/Irked/20 - PrivEsc.md",
+    "Linux Box/Irked/Pasted image 20211129124100.png",
+    "Linux Box/Irked/15 - Reverse Shell.md",
+    "Linux Box/Irked/10 - IRC.md",
+    "Linux Box/Irked/05 - Enumeration.md",
     "Windows Box/Conceal/20 - PrivEsc.md",
     "Windows Box/Conceal/Pasted image 20211129093030.png",
     "Windows Box/Conceal/Pasted image 20211129091959.png",
     "Windows Box/Conceal/Pasted image 20211129090453.png",
-    "Windows Box/Conceal/Pasted image 20211128103121.png",
-    "Windows Box/Conceal/Pasted image 20211129025819.png",
-    "Windows Box/Conceal/Pasted image 20211129084122.png",
-    "Windows Box/Conceal/Pasted image 20211129084152.png",
-    "Windows Box/Conceal/Pasted image 20211129085422.png",
-    "Windows Box/Conceal/Pasted image 20211129085542.png"
+    "Windows Box/Conceal/Pasted image 20211128103121.png"
   ]
 }
