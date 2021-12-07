@@ -4,7 +4,7 @@ Creds: ftp_user:UTDRSCH53c"$6hys
 
 ![[Pasted image 20211116042655.png]]
 
-Have a few folder, so a use the wget -- mirror to download all
+Have a few folder, so  use the wget -- mirror to download all
 
 ```bash
 $ wget --mirror 'ftp://ftp_user:UTDRSCH53c"$6hys@tally.htb.local
