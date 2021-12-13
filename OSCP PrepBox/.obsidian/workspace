@@ -7,8 +7,11 @@
         "id": "a4537e453531f0e2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Linux Box/Tabby/25 - PrivEsc.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux Box/Tabby/25 - PrivEsc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +96,15 @@
   },
   "active": "a4537e453531f0e2",
   "lastOpenFiles": [
-    "Linux Box/Blunder/Pasted image 20211212123659.png",
-    "Linux Box/Blunder/Pasted image 20211212145702.png",
-    "Linux Box/Blunder/Pasted image 20211212144531.png",
-    "Linux Box/Blunder/Pasted image 20211212143156.png",
-    "Linux Box/Blunder/Pasted image 20211212134116.png",
-    "Linux Box/Blunder/Pasted image 20211212143718.png",
-    "Linux Box/Blunder/Pasted image 20211212134049.png",
-    "Linux Box/Blunder/Pasted image 20211212133522.png",
-    "Linux Box/Blunder/00 - Creds.md",
-    "Linux Box/Blunder/20 - PrivEsc.md"
+    "Linux Box/Tabby/25 - PrivEsc.md",
+    "Linux Box/Tabby/00 - Creds.md",
+    "Linux Box/Tabby/15 - Tomcat (8080).md",
+    "Linux Box/Tabby/20 - Reverse Shell.md",
+    "Linux Box/Tabby/Pasted image 20211213120635.png",
+    "Pasted image 20211213130718.png",
+    "Pasted image 20211213122127.png",
+    "Linux Box/Tabby/10 - Apache (80).md",
+    "Linux Box/Tabby/05 - Enumeration.md",
+    "Linux Box/Blunder/Pasted image 20211212123659.png"
   ]
 }
