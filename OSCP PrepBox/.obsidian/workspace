@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b2e1a9f82c32d1",
+        "id": "a4537e453531f0e2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linux Box/Admirer/15 - FTP.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Box/Admirer/15 - FTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +90,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e1b2e1a9f82c32d1",
+  "active": "a4537e453531f0e2",
   "lastOpenFiles": [
-    "Linux Box/Admirer/15 - FTP.md",
-    "Linux Box/Admirer/10 - Apache (80).md",
-    "Linux Box/Admirer/00 - Creds.md",
-    "Linux Box/Admirer/05 - Enumeration.md",
-    "Linux Box/Magic/00 - Creds.md",
-    "Linux Box/Magic/05 - Enumeration.md",
-    "Linux Box/Magic/15 - Reverse Shell.md",
-    "Linux Box/Magic/20 - PrivEsc.md",
-    "Linux Box/Magic/10 - Apache (80).md",
-    "Linux Box/Magic/Pasted image 20211205090718.png"
+    "Linux Box/Blunder/Pasted image 20211212123659.png",
+    "Linux Box/Blunder/Pasted image 20211212145702.png",
+    "Linux Box/Blunder/Pasted image 20211212144531.png",
+    "Linux Box/Blunder/Pasted image 20211212143156.png",
+    "Linux Box/Blunder/Pasted image 20211212134116.png",
+    "Linux Box/Blunder/Pasted image 20211212143718.png",
+    "Linux Box/Blunder/Pasted image 20211212134049.png",
+    "Linux Box/Blunder/Pasted image 20211212133522.png",
+    "Linux Box/Blunder/00 - Creds.md",
+    "Linux Box/Blunder/20 - PrivEsc.md"
   ]
 }
