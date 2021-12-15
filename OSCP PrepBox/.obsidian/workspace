@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a4537e453531f0e2",
+        "id": "8470024e7de45fdc",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Linux Box/Tabby/Pasted image 20211213134721.png"
+            "file": "Linux Box/Passage/20 - PrivEsc.md",
+            "mode": "source"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Box/Tabby/Pasted image 20211213134721.png",
+                "file": "Linux Box/Passage/20 - PrivEsc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +94,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a4537e453531f0e2",
+  "active": "8470024e7de45fdc",
   "lastOpenFiles": [
-    "Linux Box/Tabby/Pasted image 20211213134721.png",
-    "Linux Box/Tabby/25 - PrivEsc.md",
-    "Linux Box/Tabby/00 - Creds.md",
-    "Linux Box/Tabby/15 - Tomcat (8080).md",
-    "Linux Box/Tabby/20 - Reverse Shell.md",
-    "Linux Box/Tabby/Pasted image 20211213120635.png",
-    "Pasted image 20211213130718.png",
-    "Pasted image 20211213122127.png",
-    "Linux Box/Tabby/10 - Apache (80).md",
-    "Linux Box/Tabby/05 - Enumeration.md"
+    "Linux Box/Passage/20 - PrivEsc.md",
+    "Linux Box/Passage/Pasted image 20211214201812.png",
+    "Pasted image 20211214202602.png",
+    "Linux Box/Passage/15 - Reverse Shell.md",
+    "Linux Box/Passage/00 - Creds.md",
+    "Linux Box/Passage/10 - Apache (80).md",
+    "Linux Box/Passage/05 - Enumeration.md",
+    "Linux Box/Passage/Pasted image 20211214145029.png",
+    "Linux Box/Passage/Pasted image 20211214175600.png",
+    "Linux Box/Passage/Pasted image 20211214153531.png"
   ]
 }
