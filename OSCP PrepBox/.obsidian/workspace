@@ -7,10 +7,9 @@
         "id": "8470024e7de45fdc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Linux Box/Passage/20 - PrivEsc.md",
-            "mode": "source"
+            "file": "Linux Box/Time/Pasted image 20211215013212.png"
           }
         }
       }
@@ -52,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 250
   },
   "right": {
     "id": "27b2df82cdc0e409",
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Box/Passage/20 - PrivEsc.md",
+                "file": "Linux Box/Time/Pasted image 20211215013212.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +95,15 @@
   },
   "active": "8470024e7de45fdc",
   "lastOpenFiles": [
+    "Linux Box/Time/Pasted image 20211215013212.png",
+    "Linux Box/Time/Pasted image 20211215011445.png",
+    "Linux Box/Time/15 - PrivEsc.md",
+    "Linux Box/Time/10 - Web.md",
+    "Linux Box/Time/05 - Nmap.md",
     "Linux Box/Passage/20 - PrivEsc.md",
     "Linux Box/Passage/Pasted image 20211214201812.png",
     "Pasted image 20211214202602.png",
     "Linux Box/Passage/15 - Reverse Shell.md",
-    "Linux Box/Passage/00 - Creds.md",
-    "Linux Box/Passage/10 - Apache (80).md",
-    "Linux Box/Passage/05 - Enumeration.md",
-    "Linux Box/Passage/Pasted image 20211214145029.png",
-    "Linux Box/Passage/Pasted image 20211214175600.png",
-    "Linux Box/Passage/Pasted image 20211214153531.png"
+    "Linux Box/Passage/00 - Creds.md"
   ]
 }
