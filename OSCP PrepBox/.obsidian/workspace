@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8470024e7de45fdc",
+        "id": "fb1021123c271236",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Linux Box/Time/Pasted image 20211215013212.png"
+            "file": "Linux Box/Pit/25 - PrivEsc.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -51,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250
+    "width": 294
   },
   "right": {
     "id": "27b2df82cdc0e409",
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Box/Time/Pasted image 20211215013212.png",
+                "file": "Linux Box/Pit/25 - PrivEsc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8470024e7de45fdc",
+  "active": "fb1021123c271236",
   "lastOpenFiles": [
-    "Linux Box/Time/Pasted image 20211215013212.png",
-    "Linux Box/Time/Pasted image 20211215011445.png",
-    "Linux Box/Time/15 - PrivEsc.md",
-    "Linux Box/Time/10 - Web.md",
-    "Linux Box/Time/05 - Nmap.md",
-    "Linux Box/Passage/20 - PrivEsc.md",
-    "Linux Box/Passage/Pasted image 20211214201812.png",
-    "Pasted image 20211214202602.png",
-    "Linux Box/Passage/15 - Reverse Shell.md",
-    "Linux Box/Passage/00 - Creds.md"
+    "Linux Box/Pit/25 - PrivEsc.md",
+    "Linux Box/Pit/Pasted image 20211227195352.png",
+    "Linux Box/Pit/20 - LFI.md",
+    "Pasted image 20211227232903.png",
+    "Linux Box/Pit/Pasted image 20211227232838.png",
+    "Linux Box/Pit/15 - SNMP.md",
+    "Linux Box/Pit/05 - Enumeration.md",
+    "Linux Box/Pit/10 - Webpage.md",
+    "Linux Box/Knife/15 - Reverse Shell - Privesc.md",
+    "Linux Box/Knife/Pasted image 20211227010539.png"
   ]
 }
